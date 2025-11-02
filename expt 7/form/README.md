@@ -48,9 +48,4 @@ Notes & Troubleshooting
 - If QR scanning doesn't work, press `d` in Expo DevTools to enable the development server LAN/Tunnel options.
 - To run on Android emulator, ensure Android Studio and an AVD are installed and running.
 
-Next steps I can do for you
-- Commit and push these files to your repo (tell me git `user.name`/`user.email` and whether to create a branch)
-- Add form validation (email regex, password strength)
-- Add navigation and a success/thank-you screen
-
-If you want me to start or stop the dev server here, or commit & push the project, tell me which action to take and provide git config if needed.
+N
